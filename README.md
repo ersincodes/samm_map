@@ -49,7 +49,7 @@ Frontend - React & Typescript
 Clone this repository to your local machine using the following command:
 
 ```sh
-git clone [repository-url]
+git clone https://github.com/ersincodes/samm_map.git
 ```
 
 ### Frontend Setup
