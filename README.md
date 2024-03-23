@@ -52,21 +52,6 @@ Clone this repository to your local machine using the following command:
 git clone https://github.com/ersincodes/samm_map.git
 ```
 
-### Frontend Setup
-
-Navigate to the frontend directory and install dependencies:
-
-```sh
-cd frontend
-npm install
-```
-
-Run the frontend server:
-
-```sh
-npm start
-```
-
 ### Backend Setup
 
 Navigate to the backend directory and install dependencies:
@@ -81,7 +66,20 @@ Run the backend server:
 ```sh
 npm run server
 ```
+### Frontend Setup
 
+Navigate to the frontend directory and install dependencies:
+
+```sh
+cd frontend
+npm install
+```
+
+Run the frontend server:
+
+```sh
+npm start
+```
 
 👩🏻‍🚀 Contact
 
