@@ -5,6 +5,7 @@
 This repository contains the source code for a web application that allows users to save and manage GPS coordinates on a map using the Leaflet.js library. This application has a frontend for user interaction and a separate backend for data management. 
 
 Backend - Express.js
+Database - MongoDB
 Frontend - React & Typescript
 
 ✧ Features
