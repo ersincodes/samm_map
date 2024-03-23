@@ -8,7 +8,7 @@ Backend - Express.js
 
 Database - MongoDB
 
-Frontend - React & Typescript
+Frontend - React(Vite) & Typescript
 
 ✧ Features
 
@@ -64,7 +64,7 @@ npm install
 Run the backend server:
 
 ```sh
-npm run server
+npm start
 ```
 ### Frontend Setup
 
@@ -78,7 +78,7 @@ npm install
 Run the frontend server:
 
 ```sh
-npm start
+npm run dev
 ```
 
 👩🏻‍🚀 Contact
